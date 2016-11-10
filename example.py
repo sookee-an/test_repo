@@ -1,3 +1,4 @@
 import os
 print(os.listdir())
-print 'Done!
+
+print('Something new.')
